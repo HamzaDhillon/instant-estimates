@@ -42,6 +42,19 @@ You can view the deployed application here:
 https://instantestimates.netlify.app/
 
 ---
+## Tech Stack Admin Access
+
+To manage pricing and view quotes, use the following credentials on the deployed site:
+
+Admin URL: instantestimates.netlify.app/admin/login
+
+Username: admin
+
+Password: admin
+
+Note: If you are running locally, the path is localhost:5173/admin/login. Ensure your backend API is running to authenticate successfully.
+
+---
 
 ## Deployment
 
