@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Instant Estimates
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Instant Estimates** is a simple web application that allows users to quickly generate service estimates through an easy-to-use interface. The platform is designed for small service businesses that want to provide fast, accessible price estimates for customers online.
 
-## Available Scripts
+🔗 **Live Demo:** https://instantestimates.netlify.app/
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Instant Estimates provides a lightweight frontend application where users can input project details and instantly receive an estimated cost. The goal of the project is to demonstrate how service businesses can automate basic quoting and improve customer experience with a fast, modern web interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is currently deployed using **Netlify** and runs as a static frontend application.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- Instant service estimate calculator
+- Customer contact form
+- Quote email functionality
+- Backend integration for handling requests
+- Database storage for estimate history
+- Admin dashboard for managing estimates
+- Responsive design for desktop and mobile
+- Fast deployment with Netlify
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- HTML
+- CSS
+- JavaScript
+- Netlify (Deployment)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Live Application
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You can view the deployed application here:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://instantestimates.netlify.app/
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Deployment
 
-## Learn More
+This project is deployed using **Netlify**.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To deploy your own version:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Push the project to GitHub
+2. Connect the repository to Netlify
+3. Netlify will automatically build and deploy the site
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
+Hamza Tariq
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was created as a portfolio project demonstrating frontend development and backend development.
