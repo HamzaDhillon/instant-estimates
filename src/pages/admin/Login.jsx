@@ -8,7 +8,7 @@ export default function Login() {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    if (email === "admin" && pass === "@admin") {
+    if (email === "admin" && pass === "admin") {
       localStorage.setItem("admin_auth", "true");
       navigate("/admin/dashboard");
     } else {
