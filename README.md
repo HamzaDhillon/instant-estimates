@@ -28,9 +28,8 @@ This project is currently deployed using **Netlify** and runs as a static fronte
 
 ## Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+- React
+- Supabase(db)
 - Netlify (Deployment)
 
 ---
